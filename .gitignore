@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+
+# Videos
+*.mp4
+*.mov
+*.m4v
+*.avi
+*.mkv
+*.webm
+*.wmv
+*.flv
+*.mpeg
+*.mpg
